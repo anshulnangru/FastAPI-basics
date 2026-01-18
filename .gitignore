@@ -43,3 +43,6 @@ dist/
 htmlcov/
 .coverage
 .coverage.*
+
+
+PYDANTIC/
